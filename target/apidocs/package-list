@@ -1,0 +1,4 @@
+com.amazonaws.services.iot.client.sample.pubSub
+com.amazonaws.services.iot.client.sample.sampleUtil
+com.amazonaws.services.iot.client.sample.shadow
+com.amazonaws.services.iot.client.sample.shadowEcho
